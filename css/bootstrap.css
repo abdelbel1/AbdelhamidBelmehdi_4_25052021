@@ -1419,15 +1419,15 @@ a:hover {
 a:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px
+    outline-offset: -2px;
 }
 
 figure {
-    margin: 0
+    margin: 0;
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 .carousel-inner>.item>a>img,
@@ -1437,11 +1437,11 @@ img {
 .thumbnail>img {
     display: block;
     width: 100%;
-    height: auto
+    height: auto;
 }
 
 .img-rounded {
-    border-radius: 6px
+    border-radius: 6px;
 }
 
 .img-thumbnail {
@@ -1455,18 +1455,18 @@ img {
     border-radius: 4px;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out
+    transition: all .2s ease-in-out;
 }
 
 .img-circle {
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 1px solid #eee
+    border-top: 1px solid #eee;
 }
 
 .sr-only {
@@ -1477,7 +1477,7 @@ hr {
     margin: -1px;
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
-    border: 0
+    border: 0;
 }
 
 .sr-only-focusable:active,
@@ -1487,11 +1487,11 @@ hr {
     height: auto;
     margin: 0;
     overflow: visible;
-    clip: auto
+    clip: auto;
 }
 
 [role=button] {
-    cursor: pointer
+    cursor: pointer;
 }
 
 .h1,
@@ -1509,7 +1509,7 @@ h6 {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
-    color: inherit
+    color: inherit;
 }
 
 .h1 .small,
@@ -1538,7 +1538,7 @@ h6 .small,
 h6 small {
     font-weight: 400;
     line-height: 1;
-    color: #777
+    color: #777;
 }
 
 .h1,
@@ -1548,7 +1548,7 @@ h1,
 h2,
 h3 {
     margin-top: 20px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
 }
 
 .h1 .small,
@@ -1563,7 +1563,7 @@ h2 .small,
 h2 small,
 h3 .small,
 h3 small {
-    font-size: 65%
+    font-size: 65%;
 }
 
 .h4,
@@ -1573,7 +1573,7 @@ h4,
 h5,
 h6 {
     margin-top: 10px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
 }
 
 .h4 .small,
@@ -1588,73 +1588,73 @@ h5 .small,
 h5 small,
 h6 .small,
 h6 small {
-    font-size: 75%
+    font-size: 75%;
 }
 
 .h1,
 h1 {
-    font-size: 36px
+    font-size: 36px;
 }
 
 .h2,
 h2 {
-    font-size: 30px
+    font-size: 30px;
 }
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 24px;
 }
 
 .h4,
 h4 {
-    font-size: 18px
+    font-size: 18px;
 }
 
 .h5,
 h5 {
-    font-size: 14px
+    font-size: 14px;
 }
 
 .h6,
 h6 {
-    font-size: 12px
+    font-size: 12px;
 }
 
 p {
-    margin: 0 0 10px
+    margin: 0 0 10px;
 }
 
 .lead {
     margin-bottom: 20px;
     font-size: 16px;
     font-weight: 300;
-    line-height: 1.4
+    line-height: 1.4;
 }
 
 @media (min-width:768px) {
     .lead {
-        font-size: 21px
+        font-size: 21px;
     }
 }
 
 .small,
 small {
-    font-size: 85%
+    font-size: 85%;
 }
 
 .mark,
 mark {
     padding: .2em;
-    background-color: #fcf8e3
+    background-color: #fcf8e3;
 }
 
 .text-left {
-    text-align: left
+    text-align: left;
 }
 
 .text-right {
-    text-align: right
+    text-align: right;
 }
 
 .text-center {
