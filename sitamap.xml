@@ -1,0 +1,15 @@
+<? xml version = " 1.0 " encoding = " utf-8 " ?> <!-- Généré par Screaming Frog SEO Spider 13.2 -->
+<urlset  xmlns = " http://www.sitemaps.org/schemas/sitemap/0.9 ">
+  <url>
+    <loc>https://abdelbel1.github.io/AbdelhamidBelmehdi_4_25052021/index.html</loc>
+    <lastmod >2021-08-13</lastmod>
+    <changefreq >quotidiennement</changefreq>
+    <priorité>1.0</priorité>
+  </url>
+  <url>
+    <loc>https://abdelbel1.github.io/AbdelhamidBelmehdi_4_25052021/contact.html</loc>
+    <lastmod >2021-08-13</lastmod>
+    <changefreq>quotidiennement</changefreq>
+    <priorité>0.9</priorité>
+  </url>
+</urlset>
